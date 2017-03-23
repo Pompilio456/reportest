@@ -10,6 +10,7 @@ namespace PruebaGitCon
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Esto es un mensage para luego hacer commit");
         }
     }
 }
