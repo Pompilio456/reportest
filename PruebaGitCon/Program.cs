@@ -22,7 +22,9 @@ namespace PruebaGitCon
 
             //all is well
 
-            //esto deberia poner error si sintento commit por estar desactualizado
+            //listo esta vaina la va actualizar desparche y luego la ira a bajar yilber, ojala y funque
+            //esto se creo en la ramaDesparche
+            //este seria otrocomentariode deesparche para ver si pegan los 2 commitcahora en master
         }
     }
 }
