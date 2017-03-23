@@ -21,6 +21,7 @@ namespace PruebaGitCon
             //bueno algo se sdaño, ahora lo q pongo en master aparece en rama 1 y viceverza
 
             //nose que pasa, esto esta muy loco chico
+            //pero vamo a calmano 
 
         }
     }
