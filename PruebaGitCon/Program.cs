@@ -20,11 +20,7 @@ namespace PruebaGitCon
             //doble clik a master, y luego lcik derecho, clik a merge from y seleecionala rama1
             //bueno algo se sdaño, ahora lo q pongo en master aparece en rama 1 y viceverza
 
-            //nose que pasa, esto esta muy loco chico
-            //pero vamo a calmano 
-
-           // sépor que , si hago commit en laa rama, se pasa elcommit deuna al master
-
+            //all is well
         }
     }
 }
