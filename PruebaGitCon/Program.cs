@@ -21,6 +21,10 @@ namespace PruebaGitCon
             //bueno algo se sdaño, ahora lo q pongo en master aparece en rama 1 y viceverza
 
             //all is well
+
+            //listo esta vaina la va actualizar desparche y luego la ira a bajar yilber, ojala y funque
+            //esto se creo en la ramaDesparche
+
         }
     }
 }
