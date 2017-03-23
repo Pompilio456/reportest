@@ -16,6 +16,8 @@ namespace PruebaGitCon
             //en undo, luego no puede recuperar lo que habia cambiado
 
             Console.WriteLine("Ahora , este comentario tiene el bash abierto, quedara en el historiald evusal ?");
+
+            Console.WriteLine("oookey so, cree una rama y ps vamos a ver como funciona el merge aca");
         }
     }
 }
