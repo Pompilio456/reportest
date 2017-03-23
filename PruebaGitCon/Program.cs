@@ -23,6 +23,8 @@ namespace PruebaGitCon
             //nose que pasa, esto esta muy loco chico
             //pero vamo a calmano 
 
+           // sépor que , si hago commit en laa rama, se pasa elcommit deuna al master
+
         }
     }
 }
