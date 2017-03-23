@@ -15,7 +15,12 @@ namespace PruebaGitCon
             //bueno en git hub si guardan los commits, ademas , si uno da clik derecho una clase conc ambios , y da clik
             //en undo, luego no puede recuperar lo que habia cambiado
 
-  
+            //okey he descubiero que con doble clikcambia de rama , y para fucionar ramas debe estar parado en la ramaprincipal
+            //por ejemplo estos comentarios estan en rama1, y los quiero fucionar en master
+            //doble clik a master, y luego lcik derecho, clik a merge from y seleecionala rama1
+            //bueno algo se sdaño, ahora lo q pongo en master aparece en rama 1 y viceverza
+
+
         }
     }
 }
