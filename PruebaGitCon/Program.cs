@@ -21,6 +21,8 @@ namespace PruebaGitCon
             //bueno algo se sdaño, ahora lo q pongo en master aparece en rama 1 y viceverza
 
             //all is well
+
+            //esto deberia poner error si sintento commit por estar desactualizado
         }
     }
 }
